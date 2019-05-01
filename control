@@ -1,0 +1,15 @@
+Author: subdiox <subdiox@gmail.com>
+Maintainer: subdiox <subdiox@gmail.com>
+Name: Infinidock
+Package: com.subdiox.infinidock
+Section: Tweaks
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate, preferenceloader (>= 1.1), com.chpwn.iconsupport
+Breaks: com.saurik.iphone.fid, com.weiphone.setwallpaper3, com.macciti.6icondock, com.imario.supremepreferencesthree, com.thecyberduck.springboardenhancer
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Scroll your dock with infinite icons! (Forked from Infiniapps in GitHub)
+Depiction: http://subdiox.com/infiniapps.html
+Homepage: http://subdiox.com/infiniapps.html
+Icon: file:///Library/PreferenceLoader/Preferences/Infinidock/Infinidock.png
+Tag: purpose::extension
